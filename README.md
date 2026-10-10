@@ -1,14 +1,13 @@
-# Youssef Mahmoud
+# Youssef Mahmoud Mohammed
 
-**Full Stack, Mobile & Applied AI Engineer** · Egypt
+**Software Engineering Student | Full-Stack Web Development | React, TypeScript, Laravel** · Egypt
 
-I build scalable web platforms, Flutter applications, enterprise systems, and applied AI/ML solutions. My portfolio highlights work across full-stack architecture, mobile security, machine learning, and interactive product design.
+I’m a final-year student in the Programming Department at the Higher Technological Institute in Beni Suef, Egypt. My primary focus is full-stack web development, and I’m also developing experience with mobile applications and applied AI.
 
 - **Web:** Laravel 11, React 19, Next.js 15, TypeScript, Node.js, PHP
-- **Mobile:** Flutter, Dart, Capacitor, Clean Architecture
+- **Mobile:** Flutter, Dart, Capacitor
 - **AI / ML:** Python, scikit-learn, XGBoost, SHAP, TensorFlow, OpenCV, Google Gemini API
 - **Data & platforms:** MySQL, SQLite, SQL Server, Prisma, Firebase
-- **Focus areas:** enterprise architecture, offline-first apps, AES-256 GCM, computer vision, NLP, analytics dashboards
 
 ## Featured projects
 
@@ -33,6 +32,6 @@ Portfolio-listed experience includes full-stack development and systems architec
 ## Connect
 
 - Portfolio: https://youssef-mahmoud.gt.tc/
-- GitHub: https://github.com/youssefmahemoud1295-jpg
+- GitHub: https://github.com/youssef-mahmoud-elmajiku
 - LinkedIn: https://www.linkedin.com/in/yuossef-mahmoud-965871312
 - Email: youssef.mahemoud1295@gmail.com
